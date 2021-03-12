@@ -1,0 +1,21 @@
+{
+  "name": "glowgeous",
+  "version": "1.0.0",
+  "description": "Glowgeous e-Store Web Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon app"
+  },
+  "author": "Rezki",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "node-cron": "^3.0.0",
+    "pg": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
