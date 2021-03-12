@@ -99,10 +99,3 @@ dist
 
 # DynamoDB Local files
 .dynamodb/
-
-# TernJS port file
-<<<<<<< HEAD
-.tern-port
-=======
-.tern-port
->>>>>>> remotes/origin/development
